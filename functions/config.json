@@ -1,0 +1,11 @@
+{
+  "apiKey": "AIzaSyDsh4Lil3VwjA6QEDa8mWadp-t_bFuptC4",
+  "authDomain": "whatapop-backend.firebaseapp.com",
+  "databaseURL": "https://whatapop-backend.firebaseio.com",
+  "projectId": "whatapop-backend",
+  "storageBucket": "whatapop-backend.appspot.com",
+  "messagingSenderId": "576232790117",
+  "appId": "1:576232790117:web:69aca31b67a7bd92",
+  "env": "dev",
+  "pgp": "postgres://whatapopproject:whatapopproject@whatapopproject.cvxzwwdlka1f.ap-southeast-1.rds.amazonaws.com:5432/hackafuture"
+}

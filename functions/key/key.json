@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "whatapop-backend",
+  "private_key_id": "b2584a4ff166e7248390a53f134717a93ef5f934",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxcbrR8sl8jxKa\n/kVCFOlP8/+0b/EjjsWj5RA30UvpnSennlRoycPceDgT8E4iAXPZGW12GC6sBAjr\naKLPNL7vDonqEg6QxvVtdJKrGtGfB6R+VO1BhEHmAI1O5215640Cgxxw3oKg6ifB\nDMVQKlGYwBd0NYwPyMNy6gkL3GoNt89rDoxxxzIWibD1D9xjmORYAykAuuD9AzYG\nRewthIjJBkitJZaf2Q+S/j7lDa/diU5uAggIOv/MDQEXupDiieY8KLegHQPdCyif\no5QQv0UYREaJxwYEzO/EQF6MMToticnq5zTX4Y+qz5neT3OHkSwGLoWfValy+7RL\n+F7hl/51AgMBAAECggEACn0hxoEZYmTAUYudXe7dAhDMU7w4juTEr4UIh012n92e\nMgpfTHNoFws/K1ni0HVGsGBQUrD9afByHjIzn4Jraozw34vHiHd48J+kVNC+GoOp\n4vLTtHH5hZDmSXH6IWu9odaiCCpK9/E8viyqVCxa4ZKHQGNdlF2bxK+WBHlisSKh\nStWgnaIPTefSgqLoT1p8GgbQJKrx4kf+z+4Gf6Jd/C4c0+8qtNIC+TrhCxJftSsO\njIL3je3cxHYUNnaQ6GsPD8MiAX/vX1TZUslaIHvyzJ6I2fgxkW8Ihex0pzpIdXf/\n4HTufj1xza1abocj5p4lNNjprRO2nzmqzlK6M5UzYQKBgQDsA9KjALg6vPd7XsjG\nYe8Y8538Tjzpna47pXVRxKDipGZs8V53BG8VTStVF8Uvm72aGtJegm/Pw+oJ0OQT\nBkV+vf6RagyBFecOHC/CY2t4H5NbXoFMuHhjCcsoeoQitwsNKEh7Q/ajE6n3h5Nm\npulrxZZWPTxn6WILJTpoC21xYQKBgQDAeEANBWifeQpQsd4EfmiRa4x/0Ht+69Os\ny9MwzdcDhU2LwkxhrKWxFLTYD9WR2U0QY/sxhdUN1aBUk93fuZCYAnMvsNsprMab\noXWCiA6cDI3znzNzCyTKhM+V69vdt5yRR8/a/OlAsewbcZkaRRT0J84zbQruLYh0\ngBbtQvehlQKBgQCKdfOtDU8HprTJ++FuASZ0TPfyfTPfGlKNS5R4VBLO5APzBeeV\ni1Rf+tXhJgDY3VVugy3HpF5UVWuINrSXNKawpGYkiUKsuFzFOmQKdqkl3+BjSh4x\nFEgMUkKNjNLYSuqA3ZEoP8cCBRdB0Jf5MRLf1xtLnMFDdPe/8idBwvKCAQKBgHKt\n87QOefUzQLMuF9RjoVisVU2+4iaQy1IVLGPS8f82CStx/OLh5OPrK4nlfWJmsKVI\nfV5XmMeiduKOLFBml8ILC6jp3twpBzmp7YN2IAZY8KetPxGYHTbSBYIVw66K/a4O\ntMmNkkmq+bysZgYiDUchBJrdqPqbhMetnnuGQFg1AoGBALODlxHeGM4c8AetCCWS\njN0rCl8KRriRQCSNAnlKSMsBp4aWOSJRlOlNR1qx6ApXs10kGx9Q3X/PmTB58hSb\nMjK4AHGqrwi5TaNHTTzCAiwqZpPOkjfc+E/up/gjJDvqqEnqoHYue6wrmvA6gVX0\nXZY17rgT/TqXiR96w8Xg9gNs\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatapop-backend@appspot.gserviceaccount.com",
+  "client_id": "110305600964258939990",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatapop-backend%40appspot.gserviceaccount.com"
+}
